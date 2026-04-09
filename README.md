@@ -4,6 +4,8 @@ Come si installa: Inserisci il file .jsx direttamente nella cartella Scripts Pan
 
 (Solitamente il percorso è: Applicazioni > Adobe InDesign > Scripts > Community > Scripts Panel)
 
+Seleziona una casella di testo con il testo in giustificato e divertiti con Swissy!
+
 Per consigli, suggerimenti o bug report, scrivi a @giuseppe_oli_ su Instagram o a giuseppe.oliveri99@gmail.com
 
 Grazie!

@@ -2,6 +2,8 @@ Swissy is a script for Adobe Indesign, it automates the rhythmic alternation bet
 
 Come si installa: Inserisci il file .jsx direttamente nella cartella Scripts Panel di Adobe InDesign.
 
+Inserisci anche il png se vuoi la mascotte!
+
 (Solitamente il percorso è: Applicazioni > Adobe InDesign > Scripts > Community > Scripts Panel)
 
 Seleziona una casella di testo con il testo in giustificato e divertiti con Swissy!
